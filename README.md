@@ -31,8 +31,7 @@ recruitment-hub/
 ├── application.js       
 ├── server.js             
 ├── package.json         
-└── public/
-    └── index.html
+└── index.html
 ```
 
 ## Screen Snippet
